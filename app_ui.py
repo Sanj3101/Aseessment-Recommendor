@@ -3,7 +3,6 @@ import faiss
 import json
 from sentence_transformers import SentenceTransformer
 from recommend import get_recommendations
-
 # Load model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
