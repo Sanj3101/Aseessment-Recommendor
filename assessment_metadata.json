@@ -1,0 +1,3008 @@
+[
+  {
+    "name": "name",
+    "url": "url",
+    "remote_testing": "remote_testing",
+    "adaptive_irt": "adaptive_irt",
+    "test_types": [],
+    "duration": "duration"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "13"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "20"
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "7 minutes"
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "13"
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ai-skills/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "P"
+    ],
+    "duration": "16"
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "6"
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/android-development-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "4"
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "P"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "P",
+      "C"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "14"
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "20"
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "P",
+      "C"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Executive Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-profile-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ExpressJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/expressjs-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Filing - Names (R1)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/filing-names-r1/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Filing - Numbers",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/filing-numbers/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "3"
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-and-banking-services-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Fire Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fire-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Following Instructions v1 - UK (R1)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "Food and Beverage Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/food-and-beverage-services-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "7"
+  },
+  {
+    "name": "Food Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/food-science-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Front Office Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/front-office-management-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "7"
+  },
+  {
+    "name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "General Diseases (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-diseases-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/geoinformatics-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "10"
+  },
+  {
+    "name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/geoscience-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/git-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "C",
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Untimed"
+  },
+  {
+    "name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Hibernate (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hibernate-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipaa-security/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "General Diseases (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-diseases-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/geoinformatics-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "10"
+  },
+  {
+    "name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/geoscience-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/git-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "13"
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "C",
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Untimed"
+  },
+  {
+    "name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Hibernate (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hibernate-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipaa-security/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "15 to 35"
+  },
+  {
+    "name": "Instrumentation Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/instrumentation-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "12"
+  },
+  {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "15 to 35"
+  },
+  {
+    "name": "Interviewing and Hiring Concepts (U.S.)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "iOS Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ios-development-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ITIL (IT Infrastructure Library) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Java Design Patterns (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-design-patterns-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-frameworks-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "17"
+  },
+  {
+    "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Java Web Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-web-services-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/jenkins-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "6"
+  },
+  {
+    "name": "Job Control Language (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/job-control-language-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "10"
+  },
+  {
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/jquery-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Linux Operating System",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-operating-system/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Load Runner (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/load-runner-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/jenkins-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "6"
+  },
+  {
+    "name": "Job Control Language (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/job-control-language-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/jquery-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "6"
+  },
+  {
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Linux Operating System",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-operating-system/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "15"
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "25"
+  },
+  {
+    "name": "Load Runner (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/load-runner-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "6"
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "B"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "13"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "10"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "11"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "10"
+  },
+  {
+    "name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Microservices (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microservices-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "7"
+  },
+  {
+    "name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "35"
+  },
+  {
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "13"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "11"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "10"
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "3"
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "12"
+  },
+  {
+    "name": "Microservices (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microservices-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "10"
+  },
+  {
+    "name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Microservices (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microservices-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "17"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "11"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "13"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "13"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Training Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/training-development/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "15 to 35"
+  },
+  {
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/typing-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "2"
+  },
+  {
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "Not specified"
+  },
+  {
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/unix-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "A"
+    ],
+    "duration": "20"
+  },
+  {
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "A"
+    ],
+    "duration": "8"
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "6"
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "E"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "max 20"
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "5"
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "6"
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "13"
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "E"
+    ],
+    "duration": "Variable"
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "max 30"
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "S"
+    ],
+    "duration": "max 45"
+  },
+  {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "30"
+  },
+  {
+    "name": "Written Spanish",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-spanish/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_types": [
+      "K"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "Zabbix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/zabbix-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "K"
+    ],
+    "duration": "9"
+  },
+  {
+    "name": "360 Digital Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/360-digital-report/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D"
+    ],
+    "duration": "Error"
+  },
+  {
+    "name": "360\u00b0 Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_types": [
+      "D",
+      "P"
+    ],
+    "duration": "Error"
+  }
+]

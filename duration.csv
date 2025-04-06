@@ -1,0 +1,294 @@
+name,url,remote_testing,adaptive_irt,test_types,duration
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['A', 'E', 'B', 'C', 'D', 'P']",Error
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['K'],30
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['K'],Error
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['K'],5
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['K'],Error
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['K'],Error
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['K'],Error
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['K'],Error
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['S'],8
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['K'],13
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['S'],Error
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['K'],Error
+Adobe Experience Manager (New),https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/,Yes,No,['K'],Error
+Adobe Photoshop CC,https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/,Yes,Yes,['K'],20
+Aeronautical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/,Yes,No,['K'],Error
+Aerospace Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/,Yes,No,['K'],Error
+Agile Software Development,https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/,Yes,No,['K'],7 minutes
+Agile Testing (New),https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/,Yes,No,['K'],13
+AI Skills,https://www.shl.com/solutions/products/product-catalog/view/ai-skills/,Yes,No,['P'],16
+Amazon Web Services (AWS) Development (New),https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/,Yes,No,['K'],6
+Android Development (New),https://www.shl.com/solutions/products/product-catalog/view/android-development-new/,Yes,No,['K'],Error
+Angular 6 (New),https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/,Yes,No,['K'],Error
+AngularJS (New),https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/,Yes,No,['K'],9
+Apache Hadoop (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/,Yes,No,['K'],Error
+Enterprise Java Beans (New),https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/,Yes,No,['K'],4
+Enterprise Leadership Report 1.0,https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/,Yes,No,['P'],Not specified
+Enterprise Leadership Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/,Yes,No,['P'],Error
+Entry Level Cashier Solution,https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/,Yes,No,"['C', 'P']",Error
+Entry Level Customer Serv-Retail & Contact Center,https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/,Yes,No,"['P', 'C']",Error
+Entry Level Customer Service (General) Solution,https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/,Yes,No,"['C', 'P']",14
+Entry Level Hotel Front Desk Solution,https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/,Yes,No,"['C', 'P']",Error
+Entry Level Sales Solution,https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/,Yes,No,"['C', 'P']",20
+Entry Level Technical Support Solution,https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/,Yes,No,"['P', 'C']",Error
+ETL Testing (New),https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/,Yes,No,['K'],Error
+Executive Scenarios,https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/,Yes,No,['B'],Error
+Executive Scenarios Narrative Report,https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/,Yes,No,['B'],Error
+Executive Scenarios Profile Report,https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-profile-report/,Yes,No,['B'],Error
+ExpressJS (New),https://www.shl.com/solutions/products/product-catalog/view/expressjs-new/,Yes,No,['K'],Error
+Filing - Names (R1),https://www.shl.com/solutions/products/product-catalog/view/filing-names-r1/,Yes,No,['K'],Error
+Filing - Numbers,https://www.shl.com/solutions/products/product-catalog/view/filing-numbers/,Yes,No,['K'],3
+Financial Accounting (New),https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/,Yes,No,['K'],9
+Financial and Banking Services (New),https://www.shl.com/solutions/products/product-catalog/view/financial-and-banking-services-new/,Yes,No,['K'],Error
+Fire Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/fire-engineering-new/,Yes,No,['K'],Error
+Following Instructions v1 - UK (R1),https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-uk-r1/,Yes,No,['K'],Error
+Following Instructions v1 - US (R2),https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-us-r2/,Yes,No,['K'],8
+Food and Beverage Services (New),https://www.shl.com/solutions/products/product-catalog/view/food-and-beverage-services-new/,Yes,No,['K'],7
+Food Science (New),https://www.shl.com/solutions/products/product-catalog/view/food-science-new/,Yes,No,['K'],Error
+Front Office Management (New),https://www.shl.com/solutions/products/product-catalog/view/front-office-management-new/,Yes,No,['K'],7
+Fundamentals of Chemistry (New),https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/,Yes,No,['K'],Error
+Fundamentals of Physics (New),https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/,Yes,No,['K'],8
+General Diseases (New),https://www.shl.com/solutions/products/product-catalog/view/general-diseases-new/,Yes,No,['K'],5
+Geoinformatics Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/geoinformatics-engineering-new/,Yes,No,['K'],10
+Geoscience Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/geoscience-engineering-new/,Yes,No,['K'],8
+GIT (New),https://www.shl.com/solutions/products/product-catalog/view/git-new/,Yes,No,['K'],Error
+Global Skills Assessment,https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/,Yes,No,"['C', 'K']",Error
+Graduate Scenarios,https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios/,Yes,No,['B'],Untimed
+Graduate Scenarios Narrative Report,https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/,Yes,No,['B'],Not specified
+Graduate Scenarios Profile Report,https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-profile-report/,Yes,No,['B'],Error
+Hibernate (New),https://www.shl.com/solutions/products/product-catalog/view/hibernate-new/,Yes,No,['K'],Error
+HIPAA (Security),https://www.shl.com/solutions/products/product-catalog/view/hipaa-security/,Yes,Yes,['K'],Error
+Fundamentals of Chemistry (New),https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/,Yes,No,['K'],Error
+Fundamentals of Physics (New),https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/,Yes,No,['K'],8
+General Diseases (New),https://www.shl.com/solutions/products/product-catalog/view/general-diseases-new/,Yes,No,['K'],Error
+Geoinformatics Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/geoinformatics-engineering-new/,Yes,No,['K'],10
+Geoscience Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/geoscience-engineering-new/,Yes,No,['K'],Error
+GIT (New),https://www.shl.com/solutions/products/product-catalog/view/git-new/,Yes,No,['K'],13
+Global Skills Assessment,https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/,Yes,No,"['C', 'K']",Error
+Graduate Scenarios,https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios/,Yes,No,['B'],Untimed
+Graduate Scenarios Narrative Report,https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/,Yes,No,['B'],Not specified
+Graduate Scenarios Profile Report,https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-profile-report/,Yes,No,['B'],Error
+Hibernate (New),https://www.shl.com/solutions/products/product-catalog/view/hibernate-new/,Yes,No,['K'],5
+HIPAA (Security),https://www.shl.com/solutions/products/product-catalog/view/hipaa-security/,Yes,Yes,['K'],15 to 35
+Instrumentation Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/instrumentation-engineering-new/,Yes,No,['K'],12
+Interpersonal Communications,https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications/,Yes,Yes,['K'],15 to 35
+Interviewing and Hiring Concepts (U.S.),https://www.shl.com/solutions/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/,Yes,Yes,['K'],Error
+iOS Development (New),https://www.shl.com/solutions/products/product-catalog/view/ios-development-new/,Yes,No,['K'],Error
+ITIL (IT Infrastructure Library) (New),https://www.shl.com/solutions/products/product-catalog/view/itil-it-infrastructure-library-new/,Yes,No,['K'],8
+Java 2 Platform Enterprise Edition 1.4 Fundamental,https://www.shl.com/solutions/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/,Yes,Yes,['K'],30
+Java 8 (New),https://www.shl.com/solutions/products/product-catalog/view/java-8-new/,Yes,No,['K'],Error
+Java Design Patterns (New),https://www.shl.com/solutions/products/product-catalog/view/java-design-patterns-new/,Yes,No,['K'],Error
+Java Frameworks (New),https://www.shl.com/solutions/products/product-catalog/view/java-frameworks-new/,Yes,No,['K'],17
+Java Platform Enterprise Edition 7 (Java EE 7),https://www.shl.com/solutions/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/,Yes,Yes,['K'],Error
+Java Web Services (New),https://www.shl.com/solutions/products/product-catalog/view/java-web-services-new/,Yes,No,['K'],Error
+JavaScript (New),https://www.shl.com/solutions/products/product-catalog/view/javascript-new/,Yes,No,['K'],9
+Jenkins (New),https://www.shl.com/solutions/products/product-catalog/view/jenkins-new/,Yes,No,['K'],6
+Job Control Language (New),https://www.shl.com/solutions/products/product-catalog/view/job-control-language-new/,Yes,No,['K'],10
+jQuery (New),https://www.shl.com/solutions/products/product-catalog/view/jquery-new/,Yes,No,['K'],Error
+Kubernetes (New),https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/,Yes,No,['K'],Error
+Linux Administration (New),https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/,Yes,No,['K'],Error
+Linux Operating System,https://www.shl.com/solutions/products/product-catalog/view/linux-operating-system/,Yes,No,['K'],Error
+Linux Programming (General),https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/,Yes,Yes,['K'],Error
+Load Runner (New),https://www.shl.com/solutions/products/product-catalog/view/load-runner-new/,Yes,No,['K'],Error
+Management Scenarios,https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/,Yes,No,['B'],Error
+Managerial Scenarios Candidate Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-candidate-report/,Yes,No,['B'],Error
+Managerial Scenarios Narrative Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-narrative-report/,Yes,No,['B'],Not specified
+Managerial Scenarios Profile Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-profile-report/,Yes,No,['B'],Error
+Jenkins (New),https://www.shl.com/solutions/products/product-catalog/view/jenkins-new/,Yes,No,['K'],6
+Job Control Language (New),https://www.shl.com/solutions/products/product-catalog/view/job-control-language-new/,Yes,No,['K'],Error
+jQuery (New),https://www.shl.com/solutions/products/product-catalog/view/jquery-new/,Yes,No,['K'],Error
+Kubernetes (New),https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/,Yes,No,['K'],6
+Linux Administration (New),https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/,Yes,No,['K'],Error
+Linux Operating System,https://www.shl.com/solutions/products/product-catalog/view/linux-operating-system/,Yes,No,['K'],15
+Linux Programming (General),https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/,Yes,Yes,['K'],25
+Load Runner (New),https://www.shl.com/solutions/products/product-catalog/view/load-runner-new/,Yes,No,['K'],6
+Management Scenarios,https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/,Yes,No,['B'],Error
+Managerial Scenarios Candidate Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-candidate-report/,Yes,No,['B'],Not specified
+Managerial Scenarios Narrative Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-narrative-report/,Yes,No,['B'],Not specified
+Managerial Scenarios Profile Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-profile-report/,Yes,No,['B'],Error
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['A', 'E', 'B', 'C', 'D', 'P']",Error
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['K'],30
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['K'],Error
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['K'],5
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['K'],Error
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['K'],9
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['K'],5
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['K'],9
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['S'],8
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['K'],13
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['S'],Error
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['K'],Error
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['A', 'E', 'B', 'C', 'D', 'P']",Not specified
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['K'],Error
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['K'],Error
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['K'],Error
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['K'],Error
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['K'],9
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['K'],5
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['K'],Error
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['S'],Error
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['K'],Error
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['S'],8
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['K'],10
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['A', 'E', 'B', 'C', 'D', 'P']",Not specified
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['K'],30
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['K'],Error
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['K'],5
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['K'],11
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['K'],9
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['K'],5
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['K'],9
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['S'],8
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['K'],Error
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['S'],Error
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['K'],Error
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['A', 'E', 'B', 'C', 'D', 'P']",Error
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['K'],Error
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['K'],Error
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['K'],Error
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['K'],Error
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['K'],Error
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['K'],Error
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['K'],Error
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['S'],Error
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['K'],Error
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['S'],Error
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['K'],Error
+Medical Terminology (New),https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/,Yes,No,['K'],Error
+Metallurgical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/,Yes,No,['K'],10
+MFS 360 Enterprise Leadership Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-enterprise-leadership-report/,Yes,No,['D'],Not specified
+MFS 360 UCF Group Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/,Yes,No,['D'],Not specified
+MFS 360 UCF Performance Potential Dev Tips Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/,Yes,No,['D'],Not specified
+MFS 360 UCF Standard Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-standard-report/,Yes,No,['D'],Not specified
+Micro Focus Unified Functional Testing (New),https://www.shl.com/solutions/products/product-catalog/view/micro-focus-unified-functional-testing-new/,Yes,No,['K'],Error
+Microservices (New),https://www.shl.com/solutions/products/product-catalog/view/microservices-new/,Yes,No,['K'],7
+Microsoft Dynamics Development (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-dynamics-development-new/,Yes,No,['K'],Error
+Microsoft Excel 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/,Yes,No,"['K', 'S']",30
+Microsoft Excel 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/,Yes,No,"['K', 'S']",35
+Microsoft Outlook 2013 (adaptive),https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/,Yes,Yes,['K'],Error
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['A', 'E', 'B', 'C', 'D', 'P']",Not specified
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['K'],30
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['K'],Error
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['K'],Error
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['K'],Error
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['K'],Error
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['K'],Error
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['K'],9
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['S'],Error
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['K'],13
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['S'],Error
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['K'],Error
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['A', 'E', 'B', 'C', 'D', 'P']",Error
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['K'],Error
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['K'],Error
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['K'],Error
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['K'],11
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['K'],Error
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['K'],Error
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['K'],Error
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['S'],8
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['K'],Error
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['S'],8
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['K'],10
+Medical Terminology (New),https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/,Yes,No,['K'],3
+Metallurgical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/,Yes,No,['K'],Error
+MFS 360 Enterprise Leadership Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-enterprise-leadership-report/,Yes,No,['D'],Error
+MFS 360 UCF Group Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/,Yes,No,['D'],Not specified
+MFS 360 UCF Performance Potential Dev Tips Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/,Yes,No,['D'],Error
+MFS 360 UCF Standard Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-standard-report/,Yes,No,['D'],Error
+Micro Focus Unified Functional Testing (New),https://www.shl.com/solutions/products/product-catalog/view/micro-focus-unified-functional-testing-new/,Yes,No,['K'],12
+Microservices (New),https://www.shl.com/solutions/products/product-catalog/view/microservices-new/,Yes,No,['K'],Error
+Microsoft Dynamics Development (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-dynamics-development-new/,Yes,No,['K'],Error
+Microsoft Excel 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/,Yes,No,"['K', 'S']",Error
+Microsoft Excel 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/,Yes,No,"['K', 'S']",Error
+Microsoft Outlook 2013 (adaptive),https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/,Yes,Yes,['K'],Error
+Medical Terminology (New),https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/,Yes,No,['K'],Error
+Metallurgical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/,Yes,No,['K'],10
+MFS 360 Enterprise Leadership Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-enterprise-leadership-report/,Yes,No,['D'],Error
+MFS 360 UCF Group Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/,Yes,No,['D'],Not specified
+MFS 360 UCF Performance Potential Dev Tips Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/,Yes,No,['D'],Error
+MFS 360 UCF Standard Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-standard-report/,Yes,No,['D'],Error
+Micro Focus Unified Functional Testing (New),https://www.shl.com/solutions/products/product-catalog/view/micro-focus-unified-functional-testing-new/,Yes,No,['K'],Error
+Microservices (New),https://www.shl.com/solutions/products/product-catalog/view/microservices-new/,Yes,No,['K'],Error
+Microsoft Dynamics Development (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-dynamics-development-new/,Yes,No,['K'],Error
+Microsoft Excel 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/,Yes,No,"['K', 'S']",30
+Microsoft Excel 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/,Yes,No,"['K', 'S']",Error
+Microsoft Outlook 2013 (adaptive),https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/,Yes,Yes,['K'],Error
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['A', 'E', 'B', 'C', 'D', 'P']",Error
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['K'],Error
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['K'],17
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['K'],5
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['K'],11
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['K'],9
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['K'],5
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['K'],9
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['S'],8
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['K'],Error
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['S'],8
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['K'],Error
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['A', 'E', 'B', 'C', 'D', 'P']",Error
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['K'],30
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['K'],Error
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['K'],Error
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['K'],Error
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['K'],Error
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['K'],Error
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['K'],Error
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['S'],8
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['K'],13
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['S'],Error
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['K'],Error
+Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"['A', 'E', 'B', 'C', 'D', 'P']",Not specified
+.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,['K'],30
+.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,['K'],Error
+.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,['K'],Error
+.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,['K'],Error
+.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,['K'],9
+.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,['K'],5
+Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,['K'],9
+Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,['S'],Error
+Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,['K'],13
+Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,['S'],8
+ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,['K'],Error
+Teradata Development (New),https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/,Yes,No,['K'],9
+Time Management (U.S.),https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/,Yes,Yes,['K'],Error
+Training Development,https://www.shl.com/solutions/products/product-catalog/view/training-development/,Yes,Yes,['K'],15 to 35
+Typing (New),https://www.shl.com/solutions/products/product-catalog/view/typing-new/,Yes,No,['S'],2
+UiPath RPA Development (New),https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/,Yes,No,['K'],8
+Universal Competency Framework Interview Guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/,Yes,No,"['C', 'P']",Not specified
+Universal Competency Framework Job profiling guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/,Yes,No,"['C', 'P']",Error
+Universal Competency Framework Profiler Cards (44),https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/,Yes,No,"['C', 'P']",Error
+UNIX (New),https://www.shl.com/solutions/products/product-catalog/view/unix-new/,Yes,No,['K'],Error
+VB.NET (New),https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/,Yes,No,['K'],Error
+Verify - Deductive Reasoning,https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/,Yes,Yes,['A'],20
+Verify - Following Instructions,https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/,Yes,No,['A'],8
+Apache Hadoop Extensions (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/,Yes,No,['K'],9
+Apache HBase (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/,Yes,No,['K'],Error
+Apache Hive (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/,Yes,No,['K'],Error
+Apache Kafka (New),https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/,Yes,No,['K'],Error
+Apache Pig (New),https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/,Yes,No,['K'],6
+Apache Spark (New),https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/,Yes,No,['K'],Error
+ASP .NET with C# (New),https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/,Yes,No,['K'],Error
+ASP.NET 4.5,https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/,Yes,Yes,['K'],30
+Assessment and Development Center Exercises,https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/,Yes,No,['E'],Error
+Automata - Fix (New),https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/,Yes,No,['S'],max 20
+Automata - SQL (New),https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/,Yes,No,['S'],Error
+Automata (New),https://www.shl.com/solutions/products/product-catalog/view/automata-new/,Yes,No,['S'],Error
+Apache Hadoop Extensions (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/,Yes,No,['K'],Error
+Apache HBase (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/,Yes,No,['K'],5
+Apache Hive (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/,Yes,No,['K'],Error
+Apache Kafka (New),https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/,Yes,No,['K'],6
+Apache Pig (New),https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/,Yes,No,['K'],Error
+Apache Spark (New),https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/,Yes,No,['K'],Error
+ASP .NET with C# (New),https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/,Yes,No,['K'],13
+ASP.NET 4.5,https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/,Yes,Yes,['K'],Error
+Assessment and Development Center Exercises,https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/,Yes,No,['E'],Variable
+Automata - Fix (New),https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/,Yes,No,['S'],Error
+Automata - SQL (New),https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/,Yes,No,['S'],max 30
+Automata (New),https://www.shl.com/solutions/products/product-catalog/view/automata-new/,Yes,No,['S'],max 45
+Written English v1,https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/,Yes,Yes,['K'],30
+Written Spanish,https://www.shl.com/solutions/products/product-catalog/view/written-spanish/,Yes,Yes,['K'],Error
+Zabbix (New),https://www.shl.com/solutions/products/product-catalog/view/zabbix-new/,Yes,No,['K'],9
+360 Digital Report,https://www.shl.com/solutions/products/product-catalog/view/360-digital-report/,Yes,No,['D'],Error
+360° Multi-Rater Feedback System (MFS),https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/,Yes,No,"['D', 'P']",Error

@@ -1,0 +1,9 @@
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+requests
+beautifulsoup4
+fastapi
+uvicorn
+streamlit
